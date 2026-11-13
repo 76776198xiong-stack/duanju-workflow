@@ -1,0 +1,14 @@
+# 本仓库只维护整理后的项目文档与经确认的公开产物。
+.DS_Store
+__MACOSX/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+*.pem
+*.key
+*.exe
+*.zip
+*.docx
+private/
+local-only/
