@@ -1,0 +1,227 @@
+{
+  "source_repository": "https://github.com/1476560380-eng/duanju-script-to-prompts-workflow",
+  "source_ref": "main",
+  "source_commit": "a76223e4ebc46c68a9baa82bcd45aa5789213125",
+  "snapshot_date": "2026-11-13",
+  "file_count": 31,
+  "files": [
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "git_blob_sha": "22d332278d73df26b6aac7234b91cc76f9d87b3e",
+      "bytes": 1943,
+      "sha256": "765db3e7927e834b4d34e2022e22537df00b4b3d68caabef5d3e6f4d0439345c"
+    },
+    {
+      "path": "skills/duanju-batch-image-prompts/SKILL.md",
+      "mode": "100644",
+      "git_blob_sha": "7a6604cc60bcd55b1d83aa047b0f65efba5ea4ee",
+      "bytes": 17713,
+      "sha256": "c4ef89ae0719e5cc61185014393277c1f56e47ca8bade5853955a2acfeb8f8e6"
+    },
+    {
+      "path": "skills/duanju-batch-image-prompts/scripts/build_prompt_preview.py",
+      "mode": "100644",
+      "git_blob_sha": "38f0c98e17dece36a93ae3eea3b48fe70e5a4cc2",
+      "bytes": 9872,
+      "sha256": "7f0df92bebe187f7f68eb9b707128e35b584ff09936e013e3229e9261290bd14"
+    },
+    {
+      "path": "skills/duanju-prompt-card-batch/SKILL.md",
+      "mode": "100644",
+      "git_blob_sha": "239bdc78c821d9096e20babae256ef408d66be5c",
+      "bytes": 3278,
+      "sha256": "adec4cb01f87d6bb18a6e0bddf3a1bbfbe6ece902dde695d6745a9f63b95d296"
+    },
+    {
+      "path": "skills/short-drama-image-prompts/CHANGELOG.md",
+      "mode": "100644",
+      "git_blob_sha": "4e91125da649d2d69ae61b2b38be829a69d42afb",
+      "bytes": 6451,
+      "sha256": "a73eefa4bb9819f9ddda5c9d735794a36a005e539376383329c988df43b7c635"
+    },
+    {
+      "path": "skills/short-drama-image-prompts/SKILL.md",
+      "mode": "100644",
+      "git_blob_sha": "89c0ae469a7ec3c379e03f06fda68166486c1ffe",
+      "bytes": 9146,
+      "sha256": "87c1034c662b9b80d18bf63ce210b8554db6efa969c0e52388e18ef76f7f3fde"
+    },
+    {
+      "path": "skills/short-drama-image-prompts/VERSION",
+      "mode": "100644",
+      "git_blob_sha": "fd2a01863fdd3035fac5918c59666363544bfe23",
+      "bytes": 6,
+      "sha256": "b2f44d3b6e29f8b1b73ea4735f006affc4d198e1fd9c7d50e736159b1ef636c6"
+    },
+    {
+      "path": "skills/short-drama-image-prompts/agents/openai.yaml",
+      "mode": "100644",
+      "git_blob_sha": "56032596f9d23de2bbd785ac7353bde962b62529",
+      "bytes": 310,
+      "sha256": "df7927cdd98d30560d24d53ed8607ab495ce101f282b02bf746048408ba20241"
+    },
+    {
+      "path": "skills/short-drama-image-prompts/examples/minimal-image-prompt-specs.jsonl",
+      "mode": "100644",
+      "git_blob_sha": "a47a2c99f16b08aa535401ece8975d0a093f7b35",
+      "bytes": 2363,
+      "sha256": "e295df00278c27346a8169fd1ab3a8263940905693d7c562d904ff773cb767fe"
+    },
+    {
+      "path": "skills/short-drama-image-prompts/references/asset-card-template-zh.md",
+      "mode": "100644",
+      "git_blob_sha": "a3c2fe8d3e5740be387856b83f51140d88f95b50",
+      "bytes": 14363,
+      "sha256": "32b2377e15b61270ac5c7313cb1e81a086be78f6f9387d79effedfad32b4b4c3"
+    },
+    {
+      "path": "skills/short-drama-image-prompts/references/character-and-look.md",
+      "mode": "100644",
+      "git_blob_sha": "625a7a6dff22c60046bc9015a8ffc1fce0391def",
+      "bytes": 8619,
+      "sha256": "f0ee2b15aef1ecb187748ef833912bbfc00f7181a5e43088cfde9d19fae49607"
+    },
+    {
+      "path": "skills/short-drama-image-prompts/references/common-recipe.md",
+      "mode": "100644",
+      "git_blob_sha": "595138a5b96f37f44363aca9df1941fbd0b59a76",
+      "bytes": 15722,
+      "sha256": "b92620eaf74be0df19d888471a22c837b2dbd5a5790672f3d51ef713fd8d2df1"
+    },
+    {
+      "path": "skills/short-drama-image-prompts/references/edit-and-revision.md",
+      "mode": "100644",
+      "git_blob_sha": "2788a7d60814bd508ff1f6d74a6d826a89cd738a",
+      "bytes": 5474,
+      "sha256": "434c836e993a38bec796b4a126e9fe8e0cebbfdc6d6d608b6d8735cd726065e3"
+    },
+    {
+      "path": "skills/short-drama-image-prompts/references/location-plate.md",
+      "mode": "100644",
+      "git_blob_sha": "f37ee43c02ae2b3d1d87a647046272dc78228c45",
+      "bytes": 9703,
+      "sha256": "ee50bb5149b5bfa45fa76aba93e10e46c5442fe55c7b60820e6beaf33890660c"
+    },
+    {
+      "path": "skills/short-drama-image-prompts/references/look-and-state-variant.md",
+      "mode": "100644",
+      "git_blob_sha": "2d7d0c3c7146bfaa819841fc2709211702d7dfa6",
+      "bytes": 5450,
+      "sha256": "72b4dfe473be27f68e9cd7d7ef0eb96abf5da4d25f11ffc31e003ee88eb22944"
+    },
+    {
+      "path": "skills/short-drama-image-prompts/references/lookdev-frame.md",
+      "mode": "100644",
+      "git_blob_sha": "688c8c110e7eb177a50d515efdbfcc6145271866",
+      "bytes": 2424,
+      "sha256": "f00ad6eee90a0078fa06299bf210e537c0356c2eac6ac31a52fd21b131202cd9"
+    },
+    {
+      "path": "skills/short-drama-image-prompts/references/production-sheet-recipes.md",
+      "mode": "100644",
+      "git_blob_sha": "007407403fb3812f17a313854016ae234a585b54",
+      "bytes": 11958,
+      "sha256": "e70723023c18c81857e68dd31fcc3c9d21d01d7657e42f2d259168a772b86d49"
+    },
+    {
+      "path": "skills/short-drama-image-prompts/references/prop-plate.md",
+      "mode": "100644",
+      "git_blob_sha": "fcb195ad15621691eb356c922f91f8b9d20950b1",
+      "bytes": 6933,
+      "sha256": "05f06a4635af6b65bbc40195633874b2a8245a34c95a71fb5e97c080631b778b"
+    },
+    {
+      "path": "skills/short-drama-image-prompts/references/review-and-fixtures.md",
+      "mode": "100644",
+      "git_blob_sha": "0e00b124b58cfcb571917cc0b00584983f76768a",
+      "bytes": 5538,
+      "sha256": "5f87c1a9c7fee52bc472779219d877006b994b4e3e65c253fd8ffc5fc9b8193d"
+    },
+    {
+      "path": "skills/short-drama-image-prompts/references/series-batch-production.md",
+      "mode": "100644",
+      "git_blob_sha": "d6ca2785e99bed1bdc121d1c2985d21e8f888e82",
+      "bytes": 8362,
+      "sha256": "91d31bce1f9c26022ddd49957f217808b7eec9981229ca89719f22cc5b0e41a2"
+    },
+    {
+      "path": "skills/short-drama-image-prompts/references/stage-contract.md",
+      "mode": "100644",
+      "git_blob_sha": "5a2f44a0166e66f7f67eba4a3278863781f1d5b8",
+      "bytes": 3712,
+      "sha256": "7813c87297ef94ec26178cc59bf3a59a93b47fc19be2793a7e80cdc9d3c5ebb9"
+    },
+    {
+      "path": "skills/short-drama-image-prompts/scripts/build_asset_aggregate.py",
+      "mode": "100644",
+      "git_blob_sha": "a029c330ff2361ce677ca0c624d8c59c0b112354",
+      "bytes": 10881,
+      "sha256": "ebd1007acafdfea1f2d8fc4ef3b98011880deddbe7cd1e2ecfa1906e9859ee7f"
+    },
+    {
+      "path": "skills/short-drama-image-prompts/scripts/image_prompt_check.py",
+      "mode": "100755",
+      "git_blob_sha": "44ab659f03f2d3c0ebc9c471ba0731fa35ded076",
+      "bytes": 17936,
+      "sha256": "a6e3217410e366f0626766218e41e5d41501efde87f5f2283c65c7e7adb901f4"
+    },
+    {
+      "path": "skills/short-drama-image-prompts/scripts/qa_markdown_cards.py",
+      "mode": "100644",
+      "git_blob_sha": "35dcffa18e32950cecf8ccd727c817a36dacae21",
+      "bytes": 5075,
+      "sha256": "40b798727d154cf223dbfd4490ce0289fb0cb341b3d340d3914ea02359b92502"
+    },
+    {
+      "path": "skills/short-drama-image-prompts/scripts/selftest.py",
+      "mode": "100755",
+      "git_blob_sha": "35020ef7fef7ad303cbce6517cbe9d3f56a107e0",
+      "bytes": 3862,
+      "sha256": "9cc21ea2b835df84289d3d1f6bd363ed20c2cb2f81870a69e75bd53052c01968"
+    },
+    {
+      "path": "tools/使用说明.md",
+      "mode": "100644",
+      "git_blob_sha": "f6c22fd61f83ecbd936e187a014f14de2eb74df3",
+      "bytes": 2415,
+      "sha256": "bc20961eb6084d081a9aa74213cfc06ffce5a7afca51d5243551f50ebb1463e5"
+    },
+    {
+      "path": "tools/导出兼容版.py",
+      "mode": "100644",
+      "git_blob_sha": "9905f69a8b211c54eba515fbff3a7d788273ed8c",
+      "bytes": 4179,
+      "sha256": "bb9931581e1f2e8094bf6ab1ad4152cc3a0eebe617bb06d0517b0d6fdf6ce87a"
+    },
+    {
+      "path": "tools/导出可复制合集.py",
+      "mode": "100644",
+      "git_blob_sha": "1d5af945918d43cd59bf2099457364a981210afd",
+      "bytes": 5734,
+      "sha256": "5854b6309a6cb52ff88b321ec7bbc572771e68104c54b876b9c192d709f2e758"
+    },
+    {
+      "path": "tools/生成预览.py",
+      "mode": "100644",
+      "git_blob_sha": "aa50f55d5dd58c0096fa0d045f0ce823ef175e27",
+      "bytes": 8866,
+      "sha256": "cdfe3393110d4d460e7770c8f901242f52211c16132632adde4d7348c89baf8c"
+    },
+    {
+      "path": "tools/重建汇总.py",
+      "mode": "100644",
+      "git_blob_sha": "c27e360ecde0674863f791b5b9dcf55bb04f0b95",
+      "bytes": 12126,
+      "sha256": "a9afab231a225f959b1e3284e502474a565688f8284b43430cd0405077cff5ef"
+    },
+    {
+      "path": "工作流.md",
+      "mode": "100644",
+      "git_blob_sha": "71c5991f512fec7e5bd5ed3b2619d888b5cd6674",
+      "bytes": 13365,
+      "sha256": "1c37e5d6d199fc133262d05a328d7ee661427d5b5220c5e4dffdff8389c2e23e"
+    }
+  ],
+  "preservation": "All tracked files at the source commit, without modification; Git history retained in the local clone."
+}
