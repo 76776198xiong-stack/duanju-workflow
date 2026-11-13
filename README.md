@@ -21,7 +21,7 @@
 
 [references/](references/README.md) 列出朋友给的全部材料，并保存了他 GitHub 仓库的完整快照（"剧本 → 资产提示词卡"的工作流、三个 Skill、四个脚本）。
 
-其中 [开源套件 drama-skills](references/开源套件-drama-skills.md) 是朋友那个技能的出处，覆盖整条流程，可能作为我们的基础。
+其中 [开源套件 drama-skills](references/开源套件-drama-skills.md) 是朋友那个技能的出处。[开源方案调研](references/开源方案调研.md) 列出了可以作为流水线基础的候选方案。
 
 ## 不放进仓库的东西
 
